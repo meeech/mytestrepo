@@ -1,0 +1,4 @@
+Replace this value perhaps?
+
+
+<%= _.slugify(projectName) %>
